@@ -1,0 +1,6 @@
+this module is used to access our softwaares of mysql
+by using this we can access all the values
+for that we use connector 
+then we use connect method to have the info about the software
+then we use cursor method
+and at last we use execute method
